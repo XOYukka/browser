@@ -1,0 +1,4 @@
+D:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\Browser\Browser\x64\Debug\Browser.vcxproj.AssemblyReference.cache
+D:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\Browser\Browser\x64\Debug\Browser.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\Browser\Browser\x64\Debug\Browser.MyForm.resources
+D:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\Browser\Browser\x64\Debug\Browser.vcxproj.GenerateResource.cache
